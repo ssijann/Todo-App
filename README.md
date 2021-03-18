@@ -6,5 +6,5 @@
 </br>
 <b>GIF</b>
 <br/>
-<img src="todo.gif" width="200">
+<img src="todo.gif" width="300">
 </br>
